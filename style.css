@@ -41,6 +41,9 @@ p {
     margin-bottom: 1.25rem;
 }
 
+/*
+nav is still not responsive
+*/
 nav {
   padding-right: 20rem;
 }
